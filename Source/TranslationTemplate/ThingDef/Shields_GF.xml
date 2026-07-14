@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AA12 Shield -->
+  <GF_AA12_shield.label>AA12 Shield</GF_AA12_shield.label>
+  <!-- EN: AA12's Shield -->
+  <GF_AA12_shield.description>AA12's Shield</GF_AA12_shield.description>
+  <!-- EN: Saiga12 Shield -->
+  <GF_Saiga12_shield.label>Saiga12 Shield</GF_Saiga12_shield.label>
+  <!-- EN: Saiga12's Shield -->
+  <GF_Saiga12_shield.description>Saiga12's Shield</GF_Saiga12_shield.description>
+  <!-- EN: SAT8 Shield -->
+  <GF_Sat8_shield.label>SAT8 Shield</GF_Sat8_shield.label>
+  <!-- EN: SAT8's Shield -->
+  <GF_Sat8_shield.description>SAT8's Shield</GF_Sat8_shield.description>
+  <!-- EN: Spas12 Shield -->
+  <GF_Spas12_shield.label>Spas12 Shield</GF_Spas12_shield.label>
+  <!-- EN: Spas12's Shield -->
+  <GF_Spas12_shield.description>Spas12's Shield</GF_Spas12_shield.description>
+</LanguageData>

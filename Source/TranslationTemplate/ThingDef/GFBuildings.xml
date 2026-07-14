@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: IOP Field maintenance Table -->
+  <GFTable.label>IOP Field maintenance Table</GFTable.label>
+  <!-- EN: A table with equipments for repairing or maintenance IOP Weapons. -->
+  <GFTable.description>A table with equipments for repairing or maintenance IOP Weapons.</GFTable.description>
+</LanguageData>
