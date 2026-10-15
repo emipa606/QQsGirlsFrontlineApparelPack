@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>ad24010a-1787-4e5c-a050-c9320e46ed56</ID>
   <ModName>QQ's Girls' frontline Apparel Pack (Continued)</ModName>
-  <Version>1.6.0</Version>
+  <Version>1.7.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
